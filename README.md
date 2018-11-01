@@ -8,16 +8,23 @@
 
 ## Spatiotemporal Prediction
 
+### Theory
+
 - [NIPS 2015] Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting (Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-kin Wong, Wang-chun Woo)
   https://arxiv.org/abs/1506.04214
 
-- DeepRain: ConvLSTM Network for Precipitation Prediction Using Multichannel Radar Data (Seongchan Kim, Seungkyun Hong, Minsu Joh, Sa-kwang Song)
-  https://arxiv.org/abs/1711.02316
+- Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model
+  https://arxiv.org/abs/1706.03458
 
 - [ICML 2018] PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning 
   https://arxiv.org/abs/1804.06300 \
   http://proceedings.mlr.press/v80/wang18b.html \
   [Official CODE] https://github.com/Yunbo426/predrnn-pp
+
+### Application
+
+- DeepRain: ConvLSTM Network for Precipitation Prediction Using Multichannel Radar Data (Seongchan Kim, Seungkyun Hong, Minsu Joh, Sa-kwang Song) \
+  https://arxiv.org/abs/1711.02316
 
 - [CIKM 2017 Contest] Convolutional LSTM neural network to extrapolate radar images, and predict rainfal \
   https://github.com/TeaPearce/precipitation-prediction-convLSTM-keras
