@@ -41,6 +41,8 @@ https://ieeexplore.ieee.org/document/7752890
 
 - [NIPS 2017] PSIque: Next Sequence Prediction of Satellite Images using a Convolutional Sequence-to-Sequence Network
   https://dl4physicalsciences.github.io/files/nips_dlps_2017_12.pdf
+  
+- [IWCI 2017] Globenet: Convolutional neural networks for typhoon eye tracking from remote sensing imagery
 
 ## Authors' homepage
 - Xingjian Shi (施行健)
@@ -49,3 +51,4 @@ https://ieeexplore.ieee.org/document/7752890
 
 ## Abbr.
 - ICDM IEEE International Conference on Data Mining series (ICDM)
+- ICWI International Workshop on Climate Informatics (ICWI)
