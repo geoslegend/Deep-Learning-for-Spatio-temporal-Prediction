@@ -13,15 +13,25 @@
 - [NIPS 2015] Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting (Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-kin Wong, Wang-chun Woo)
   https://arxiv.org/abs/1506.04214
 
-- Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model
+- [NIPS 2017] Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model
   https://arxiv.org/abs/1706.03458
+  
+- [ICML 2017] Deep Forecast: Deep Learning-based Spatio-Temporal Forecasting 
+  https://arxiv.org/abs/1707.08110
 
 - [ICML 2018] PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning 
   https://arxiv.org/abs/1804.06300 \
   http://proceedings.mlr.press/v80/wang18b.html \
   [Official CODE] https://github.com/Yunbo426/predrnn-pp
+  
+- [ICDM 2018] Spatio-Temporal Neural Networks for Space-Time Series Forecasting and Relations Discovery
+  https://arxiv.org/pdf/1804.08562.pdf \
+  [Official CODE] https://github.com/edouardelasalles/stnn
 
 ### Application
+
+- Deep-STEP: A Deep Learning Approach for Spatiotemporal Prediction of Remote Sensing Data (Monidipa Das, Soumya K. Ghosh)
+https://ieeexplore.ieee.org/document/7752890
 
 - DeepRain: ConvLSTM Network for Precipitation Prediction Using Multichannel Radar Data (Seongchan Kim, Seungkyun Hong, Minsu Joh, Sa-kwang Song) \
   https://arxiv.org/abs/1711.02316
@@ -36,3 +46,6 @@
 - Xingjian Shi (施行健)
   https://home.cse.ust.hk/~xshiab/
   - Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model 
+
+## Abbr.
+- ICDM IEEE International Conference on Data Mining series (ICDM)
