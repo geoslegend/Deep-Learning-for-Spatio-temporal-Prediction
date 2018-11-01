@@ -12,7 +12,7 @@
   https://arxiv.org/abs/1506.04214
 
 - DeepRain: ConvLSTM Network for Precipitation Prediction Using Multichannel Radar Data (Seongchan Kim, Seungkyun Hong, Minsu Joh, Sa-kwang Song)
-  https://arxiv.org/pdf/1711.02316.pdf
+  https://arxiv.org/abs/1711.02316
 
 - [ICML 2018] PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning 
   https://arxiv.org/abs/1804.06300 \
