@@ -49,6 +49,8 @@ https://ieeexplore.ieee.org/document/7752890
   https://home.cse.ust.hk/~xshiab/
   - Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model 
 
-## Abbr.
+## Abbreviations
+- NIPS Neural Information Processing Systems (NIPS)
+- ICML International Conference on Machine Learning
 - ICDM IEEE International Conference on Data Mining series (ICDM)
 - ICWI International Workshop on Climate Informatics (ICWI)
