@@ -1,5 +1,5 @@
 
-### Rethinking something related to Deep Learning 
+### Rethinking Existing Deep Learning Techniques
 
 - Rethinking ImageNet Pre-training \
   Kaiming He, Ross Girshick, Piotr Dollar \
